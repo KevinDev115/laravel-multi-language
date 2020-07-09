@@ -1,0 +1,18 @@
+.links-lang a {
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
+}
+.links-lang a:hover {
+    transform: scale(1.1);
+}
+
+.title-app {
+    transition: all 0.2s ease-in-out;
+}
+.title-app:hover {
+    transform: scale(1.1);
+}
+
+.links-lang .label-lang {
+    font-size: 16px;
+}
